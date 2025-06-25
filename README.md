@@ -1,7 +1,6 @@
 # Youtube-Analysis
 System Setup Steps
 ![Diagram](https://github.com/user-attachments/assets/d696a805-edb0-4356-8bd3-a77aa62660b6)
-Fig. 3 List of JSON files of 10 countries
 
 The horizontal data pipeline diagram visually represents the end-to-end workflow of this YouTube trending video analysis project using AWS and Snowflake. Each component in the pipeline plays a specific role in processing, transforming, and analyzing the data:
 
