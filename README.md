@@ -1,7 +1,8 @@
 # Youtube-Analysis
 System Setup Steps
- 
+ https://github.com/theboomman/Youtube-Analysis/blob/main/Diagram.png
 Fig. 3 List of JSON files of 10 countries
+
 The horizontal data pipeline diagram visually represents the end-to-end workflow of this YouTube trending video analysis project using AWS and Snowflake. Each component in the pipeline plays a specific role in processing, transforming, and analyzing the data:
 Data Sources:
 The pipeline begins with raw CSV and JSON files downloaded from Kaggle, containing YouTube trending video data across various countries and categories from 2020 to 2024.
